@@ -6,6 +6,6 @@ The idea behind this project was to gather and compare ride-sharing data like th
 ## Results
 (Use charts to describe the diff between ride sharing data amongst different city types)
 Looking at the pyber_summary dataframe created in the code, and the Total Fares by City Type multiple_line chart,
-
+![Total Fares by City Type](https://github.com/lrngdtascinc/Kickstarter-Challenge/blob/main/Outcome%20Based%20on%20Goal.png)
 ## Summary
 (Provide three business recomendations based on the results)
