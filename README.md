@@ -5,6 +5,7 @@ The idea behind this project was to gather and compare ride-sharing data like th
 
 ## Results
 Looking at the pyber_summary dataframe created in the code, and the Total Fares by City Type multiple line chart:
+
 ![Total Fares by City Type
 (https://github.com/lrngdtascinc/PyBer_Analysis/blob/1728781fce497ba2eb1f5ee72e31a0fa12bd0d22/Pyber%20Analysis%20of%20Fares%20by%20City%20Type.png)
 
